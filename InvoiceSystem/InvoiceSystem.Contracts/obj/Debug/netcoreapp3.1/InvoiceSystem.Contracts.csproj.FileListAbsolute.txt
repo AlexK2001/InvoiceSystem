@@ -1,0 +1,9 @@
+D:\Htl\5 Jahrgang\Prog\InvoiceSystem\InvoiceSystem\InvoiceSystem.Contracts\bin\Debug\netcoreapp3.1\InvoiceSystem.Contracts.deps.json
+D:\Htl\5 Jahrgang\Prog\InvoiceSystem\InvoiceSystem\InvoiceSystem.Contracts\bin\Debug\netcoreapp3.1\InvoiceSystem.Contracts.dll
+D:\Htl\5 Jahrgang\Prog\InvoiceSystem\InvoiceSystem\InvoiceSystem.Contracts\bin\Debug\netcoreapp3.1\InvoiceSystem.Contracts.pdb
+D:\Htl\5 Jahrgang\Prog\InvoiceSystem\InvoiceSystem\InvoiceSystem.Contracts\obj\Debug\netcoreapp3.1\InvoiceSystem.Contracts.AssemblyInfoInputs.cache
+D:\Htl\5 Jahrgang\Prog\InvoiceSystem\InvoiceSystem\InvoiceSystem.Contracts\obj\Debug\netcoreapp3.1\InvoiceSystem.Contracts.AssemblyInfo.cs
+D:\Htl\5 Jahrgang\Prog\InvoiceSystem\InvoiceSystem\InvoiceSystem.Contracts\obj\Debug\netcoreapp3.1\InvoiceSystem.Contracts.csproj.CoreCompileInputs.cache
+D:\Htl\5 Jahrgang\Prog\InvoiceSystem\InvoiceSystem\InvoiceSystem.Contracts\obj\Debug\netcoreapp3.1\InvoiceSystem.Contracts.dll
+D:\Htl\5 Jahrgang\Prog\InvoiceSystem\InvoiceSystem\InvoiceSystem.Contracts\obj\Debug\netcoreapp3.1\InvoiceSystem.Contracts.pdb
+D:\Htl\5 Jahrgang\Prog\InvoiceSystem\InvoiceSystem\InvoiceSystem.Contracts\obj\Debug\netcoreapp3.1\InvoiceSystem.Contracts.csprojAssemblyReference.cache

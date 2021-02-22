@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InvoiceSystem.Contracts\InvoiceSystem.Contracts.csproj" />
+    <ProjectReference Include="..\InvoiceSystem.Logic\InvoiceSystem.Logic.csproj" />
+  </ItemGroup>
+
+</Project>

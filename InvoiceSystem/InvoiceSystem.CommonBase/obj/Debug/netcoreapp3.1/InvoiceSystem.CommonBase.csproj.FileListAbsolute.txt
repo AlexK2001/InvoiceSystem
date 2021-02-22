@@ -1,0 +1,8 @@
+D:\Htl\5 Jahrgang\Prog\InvoiceSystem\InvoiceSystem\InvoiceSystem.CommonBase\bin\Debug\netcoreapp3.1\InvoiceSystem.CommonBase.deps.json
+D:\Htl\5 Jahrgang\Prog\InvoiceSystem\InvoiceSystem\InvoiceSystem.CommonBase\bin\Debug\netcoreapp3.1\InvoiceSystem.CommonBase.dll
+D:\Htl\5 Jahrgang\Prog\InvoiceSystem\InvoiceSystem\InvoiceSystem.CommonBase\bin\Debug\netcoreapp3.1\InvoiceSystem.CommonBase.pdb
+D:\Htl\5 Jahrgang\Prog\InvoiceSystem\InvoiceSystem\InvoiceSystem.CommonBase\obj\Debug\netcoreapp3.1\InvoiceSystem.CommonBase.AssemblyInfoInputs.cache
+D:\Htl\5 Jahrgang\Prog\InvoiceSystem\InvoiceSystem\InvoiceSystem.CommonBase\obj\Debug\netcoreapp3.1\InvoiceSystem.CommonBase.AssemblyInfo.cs
+D:\Htl\5 Jahrgang\Prog\InvoiceSystem\InvoiceSystem\InvoiceSystem.CommonBase\obj\Debug\netcoreapp3.1\InvoiceSystem.CommonBase.csproj.CoreCompileInputs.cache
+D:\Htl\5 Jahrgang\Prog\InvoiceSystem\InvoiceSystem\InvoiceSystem.CommonBase\obj\Debug\netcoreapp3.1\InvoiceSystem.CommonBase.dll
+D:\Htl\5 Jahrgang\Prog\InvoiceSystem\InvoiceSystem\InvoiceSystem.CommonBase\obj\Debug\netcoreapp3.1\InvoiceSystem.CommonBase.pdb
